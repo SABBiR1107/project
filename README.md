@@ -1,4 +1,4 @@
 # project
 
-This is our first project v2
+This is our first project V2. 2
 
